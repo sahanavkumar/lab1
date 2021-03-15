@@ -1,6 +1,6 @@
 /**
 * name: sahana B V
-*Description : convert rupees to dollar
+*Description : sum of cubes of a number
 * date:3/14/2021
 */
 
